@@ -1,0 +1,20 @@
+D:\Programy\Randomix\Randomix\bin\Debug\Randomix.exe.config
+D:\Programy\Randomix\Randomix\bin\Debug\Randomix.exe
+D:\Programy\Randomix\Randomix\bin\Debug\Randomix.pdb
+D:\Programy\Randomix\Randomix\obj\Debug\Randomix.csproj.AssemblyReference.cache
+D:\Programy\Randomix\Randomix\obj\Debug\Randomix.Form1.resources
+D:\Programy\Randomix\Randomix\obj\Debug\Randomix.Properties.Resources.resources
+D:\Programy\Randomix\Randomix\obj\Debug\Randomix.csproj.GenerateResource.cache
+D:\Programy\Randomix\Randomix\obj\Debug\Randomix.csproj.CoreCompileInputs.cache
+D:\Programy\Randomix\Randomix\obj\Debug\Randomix.exe
+D:\Programy\Randomix\Randomix\obj\Debug\Randomix.pdb
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\bin\Debug\Randomix.exe.config
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\bin\Debug\Randomix.exe
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\bin\Debug\Randomix.pdb
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\obj\Debug\Randomix.csproj.AssemblyReference.cache
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\obj\Debug\Randomix.Form1.resources
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\obj\Debug\Randomix.Properties.Resources.resources
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\obj\Debug\Randomix.csproj.GenerateResource.cache
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\obj\Debug\Randomix.csproj.CoreCompileInputs.cache
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\obj\Debug\Randomix.exe
+D:\Studia\Programowanie w C# i Aplikacje Użytkowe\Randomix\Randomix\obj\Debug\Randomix.pdb
